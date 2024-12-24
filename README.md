@@ -8,6 +8,7 @@ The base image should be alpine:latest.
 The Dockerfile should contain a single instruction to print “Hello, Captain!” to the console before exiting.
 
 **If you use Window**
+
 Run this code on Window Terminal
 ```
 mkdir hello-captain
